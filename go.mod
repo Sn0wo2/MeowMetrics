@@ -1,4 +1,4 @@
-module github.com/Sn0wo2/MeowMetrics/Backend
+module github.com/Sn0wo2/MeowMetrics
 
 go 1.25.5
 

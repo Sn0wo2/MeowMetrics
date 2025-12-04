@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Sn0wo2/MeowMetrics/Backend/debug"
+	"github.com/Sn0wo2/MeowMetrics/debug"
 	"github.com/gin-gonic/gin"
 )
 

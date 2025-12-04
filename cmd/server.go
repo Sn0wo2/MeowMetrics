@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Sn0wo2/MeowMetrics/Backend/framework"
+	"github.com/Sn0wo2/MeowMetrics/framework"
 	"github.com/gin-gonic/gin"
 )
 
